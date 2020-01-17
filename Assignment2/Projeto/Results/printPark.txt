@@ -1,0 +1,216 @@
+Customer 11,11,11,1,0 go to repair Shop
+Customer 21,21,21,1,0 go to repair Shop
+Customer 27,27,27,1,0 go to repair Shop
+Customer 14,14,14,1,0 go to repair Shop
+Customer 18,18,18,0,0 go to repair Shop
+Customer 24,24,24,1,0 go to repair Shop
+Customer 25,25,25,0,0 go to repair Shop
+Customer 28,28,28,0,0 go to repair Shop
+Customer 6,6,6,0,0 go to repair Shop
+Customer 29,29,29,1,0 go to repair Shop
+Customer 22,22,22,0,0 go to repair Shop
+Customer 15,15,15,1,0 go to repair Shop
+Customer 20,20,20,1,0 go to repair Shop
+Customer 0,0,0,0,0 go to repair Shop
+Customer 11 find car
+Customer 11 will take it off a replacement car.
+ The replacementCars before poll : [-1, -2, -3]
+Customer 7,7,7,0,0 go to repair Shop
+Customer 17,17,17,1,0 go to repair Shop
+Customer 4,4,4,1,0 go to repair Shop
+Customer 9,9,9,1,0 go to repair Shop
+Customer 12,12,12,0,0 go to repair Shop
+Customer 3,3,3,0,0 go to repair Shop
+Customer 19,19,19,1,0 go to repair Shop
+Customer 8,8,8,1,0 go to repair Shop
+Customer 26,26,26,1,0 go to repair Shop
+Customer 10,10,10,1,0 go to repair Shop
+Customer 5,5,5,0,0 go to repair Shop
+Customer 2,2,2,0,0 go to repair Shop
+Customer 23,23,23,0,0 go to repair Shop
+Customer 13,13,13,0,0 go to repair Shop
+Mechanic get Vehicle from 11
+Customer 1,1,1,1,0 go to repair Shop
+Customer 16,16,16,0,0 go to repair Shop
+Mechanic return Vehicle from 11
+Mechanic get Vehicle from 21
+Customer 21 find car
+Customer 21 will take it off a replacement car.
+ The replacementCars before poll : [-2, -3]
+Mechanic return Vehicle from 21
+Customer 11,11,-1,1,0 go to repair Shop
+Customer 21,21,-2,1,0 go to repair Shop
+Customer 27 find car
+Customer 27 will take it off a replacement car.
+ The replacementCars before poll : [-3, -1, -2]
+Mechanic get Vehicle from 27
+Mechanic return Vehicle from 27
+Mechanic get Vehicle from 18
+Customer 27,27,-3,1,0 go to repair Shop
+Mechanic return Vehicle from 18
+Customer 14 find car
+Customer 14 will take it off a replacement car.
+ The replacementCars before poll : [-1, -2, -3]
+Mechanic get Vehicle from 14
+Mechanic return Vehicle from 14
+Mechanic get Vehicle from 25
+Customer 14,14,-1,1,0 go to repair Shop
+Mechanic return Vehicle from 25
+Customer 24 find car
+Customer 24 will take it off a replacement car.
+ The replacementCars before poll : [-2, -3, -1]
+Mechanic get Vehicle from 24
+Mechanic return Vehicle from 24
+Mechanic get Vehicle from 6
+Customer 24,24,-2,1,0 go to repair Shop
+Mechanic return Vehicle from 6
+Mechanic get Vehicle from 28
+Mechanic block Vehicle from 28
+Mechanic get Vehicle from 28
+Mechanic get Vehicle from 22
+Mechanic block Vehicle from 28
+Mechanic return Vehicle from 22
+Mechanic get Vehicle from 28
+Mechanic return Vehicle from 28
+Customer 29 find car
+Customer 29 will take it off a replacement car.
+ The replacementCars before poll : [-3, -1, -2]
+Mechanic get Vehicle from 29
+Mechanic return Vehicle from 29
+Mechanic get Vehicle from 0
+Customer 29,29,-3,1,0 go to repair Shop
+Mechanic block Vehicle from 0
+Customer 20 find car
+Customer 20 will take it off a replacement car.
+ The replacementCars before poll : [-1, -2, -3]
+Mechanic get Vehicle from 0
+Mechanic get Vehicle from 20
+Mechanic block Vehicle from 0
+Mechanic return Vehicle from 20
+Mechanic get Vehicle from 0
+Customer 20,20,-1,1,0 go to repair Shop
+Mechanic return Vehicle from 0
+Customer 15 find car
+Customer 15 will take it off a replacement car.
+ The replacementCars before poll : [-2, -3, -1]
+Mechanic get Vehicle from 15
+Mechanic return Vehicle from 15
+Customer 17 find car
+Customer 17 will take it off a replacement car.
+ The replacementCars before poll : [-3, -1]
+Mechanic get Vehicle from 17
+Customer 15,15,-2,1,0 go to repair Shop
+Mechanic return Vehicle from 17
+Mechanic get Vehicle from 7
+Customer 17,17,-3,1,0 go to repair Shop
+Mechanic return Vehicle from 7
+Mechanic get Vehicle from 12
+Mechanic block Vehicle from 12
+Customer 9 find car
+Customer 9 will take it off a replacement car.
+ The replacementCars before poll : [-1, -2, -3]
+Mechanic get Vehicle from 12
+Mechanic get Vehicle from 9
+Mechanic block Vehicle from 12
+Mechanic block Vehicle from 9
+Mechanic get Vehicle from 9
+Mechanic get Vehicle from 12
+Mechanic return Vehicle from 9
+Customer 4 find car
+Customer 4 will take it off a replacement car.
+ The replacementCars before poll : [-2, -3]
+Mechanic return Vehicle from 12
+Mechanic get Vehicle from 4
+Customer 9,9,-1,1,0 go to repair Shop
+Mechanic return Vehicle from 4
+Customer 4,4,-2,1,0 go to repair Shop
+Customer 8 find car
+Customer 8 will take it off a replacement car.
+ The replacementCars before poll : [-3, -1, -2]
+Mechanic get Vehicle from 8
+Customer 19 find car
+Customer 19 will take it off a replacement car.
+ The replacementCars before poll : [-1, -2]
+Mechanic return Vehicle from 8
+Mechanic get Vehicle from 19
+Customer 8,8,-3,1,0 go to repair Shop
+Mechanic return Vehicle from 19
+Mechanic get Vehicle from 3
+Customer 19,19,-1,1,0 go to repair Shop
+Mechanic block Vehicle from 3
+Mechanic get Vehicle from 3
+Mechanic get Vehicle from 2
+Mechanic block Vehicle from 3
+Mechanic block Vehicle from 2
+Mechanic get Vehicle from 2
+Mechanic get Vehicle from 3
+Mechanic return Vehicle from 2
+Mechanic return Vehicle from 3
+Mechanic get Vehicle from 5
+Mechanic return Vehicle from 5
+Customer 10 find car
+Customer 10 will take it off a replacement car.
+ The replacementCars before poll : [-2, -3, -1]
+Mechanic get Vehicle from 10
+Customer 26 find car
+Customer 26 will take it off a replacement car.
+ The replacementCars before poll : [-3, -1]
+Mechanic return Vehicle from 10
+Mechanic get Vehicle from 26
+Customer 10,10,-2,1,0 go to repair Shop
+Mechanic block Vehicle from 26
+Customer 1 find car
+Customer 1 will take it off a replacement car.
+ The replacementCars before poll : [-1, -2]
+Mechanic get Vehicle from 26
+Mechanic get Vehicle from 1
+Mechanic block Vehicle from 26
+Mechanic return Vehicle from 1
+Mechanic get Vehicle from 26
+Customer 1,1,-1,1,0 go to repair Shop
+Mechanic return Vehicle from 26
+Mechanic get Vehicle from 13
+Customer 26,26,-3,1,0 go to repair Shop
+Mechanic block Vehicle from 13
+Mechanic get Vehicle from 13
+Mechanic block Vehicle from 13
+Mechanic get Vehicle from 23
+Mechanic return Vehicle from 23
+Mechanic get Vehicle from 13
+Mechanic return Vehicle from 13
+Mechanic get Vehicle from 16
+Customer 11 collect car
+Mechanic block Vehicle from 16
+Customer 21 collect car
+Mechanic get Vehicle from 16
+Mechanic return Vehicle from 16
+Customer 27 collect car
+Customer 18 collect car
+Customer 14 collect car
+Customer 25 collect car
+Customer 24 collect car
+Customer 6 collect car
+Customer 22 collect car
+Customer 28 collect car
+Customer 29 collect car
+Customer 20 collect car
+Customer 0 collect car
+Customer 15 collect car
+Customer 17 collect car
+Customer 7 collect car
+Customer 9 collect car
+Customer 12 collect car
+Customer 4 collect car
+Customer 8 collect car
+Customer 19 collect car
+Customer 2 collect car
+Customer 3 collect car
+Customer 5 collect car
+Customer 10 collect car
+Customer 1 collect car
+Customer 26 collect car
+Customer 23 collect car
+Customer 13 collect car
+Customer 16 collect car
+ Park will end
+Park it's over

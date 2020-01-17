@@ -1,0 +1,402 @@
+Manager get next task
+Manager apraise sit
+Manager talk to customer 11,11,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager talk to customer 21,21,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 11
+Manager get next task
+Manager apraise sit
+Manager phone customer 21
+Manager get next task
+Manager apraise sit
+Manager talk to customer 27,27,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager talk to customer 18,18,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 27
+Manager get next task
+Manager apraise sit
+Manager talk to customer 14,14,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 18
+Manager get next task
+Manager apraise sit
+Manager talk to customer 25,25,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 14
+Manager get next task
+Manager apraise sit
+Manager talk to customer 24,24,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 25
+Manager get next task
+Manager apraise sit
+Manager talk to customer 6,6,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 24
+Manager get next task
+Manager apraise sit
+Manager talk to customer 28,28,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 6
+Manager get next task
+Manager apraise sit
+Manager talk to customer 22,22,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager phone customer 22
+Manager get next task
+Manager apraise sit
+Manager phone customer 28
+Manager get next task
+Manager apraise sit
+Manager talk to customer 29,29,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager talk to customer 0,0,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 29
+Manager get next task
+Manager apraise sit
+Manager talk to customer 20,20,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager phone customer 20
+Manager get next task
+Manager apraise sit
+Manager talk to customer 15,15,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 0
+Manager get next task
+Manager apraise sit
+Manager talk to customer 17,17,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 15
+Manager get next task
+Manager apraise sit
+Manager talk to customer 7,7,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 17
+Manager get next task
+Manager apraise sit
+Manager talk to customer 12,12,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 7
+Manager get next task
+Manager apraise sit
+Manager talk to customer 9,9,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager talk to customer 4,4,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 9
+Manager get next task
+Manager apraise sit
+Manager phone customer 12
+Manager get next task
+Manager apraise sit
+Manager phone customer 4
+Manager get next task
+Manager apraise sit
+Manager talk to customer 8,8,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager talk to customer 19,19,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 8
+Manager get next task
+Manager apraise sit
+Manager talk to customer 3,3,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 19
+Manager get next task
+Manager apraise sit
+Manager talk to customer 2,2,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager talk to customer 5,5,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 2
+Manager get next task
+Manager apraise sit
+Manager phone customer 3
+Manager get next task
+Manager apraise sit
+Manager phone customer 5
+Manager get next task
+Manager apraise sit
+Manager talk to customer 10,10,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager talk to customer 26,26,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 10
+Manager get next task
+Manager apraise sit
+Manager talk to customer 1,1,30,1,0
+Manager hand car key
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager phone customer 1
+Manager get next task
+Manager apraise sit
+Manager talk to customer 13,13,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager phone customer 26
+Manager get next task
+Manager apraise sit
+Manager talk to customer 23,23,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager phone customer 23
+Manager get next task
+Manager apraise sit
+Manager phone customer 13
+Manager get next task
+Manager apraise sit
+Manager talk to customer 16,16,30,0,0
+Manager register service
+Manager get next task
+Manager apraise sit
+Manager talk to customer 11,11,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 21,21,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager go to supplier
+Manager store part
+Manager get next task
+Manager apraise sit
+Manager talk to customer 27,27,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager phone customer 16
+Manager get next task
+Manager apraise sit
+Manager talk to customer 18,18,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 14,14,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 25,25,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 24,24,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 6,6,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 22,22,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 28,28,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 29,29,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 20,20,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 0,0,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 15,15,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 17,17,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 7,7,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 9,9,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 12,12,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 4,4,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 8,8,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 19,19,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 2,2,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 3,3,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 5,5,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 10,10,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 1,1,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 26,26,30,1,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 23,23,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 13,13,30,0,1
+Manager receive payment
+Manager get next task
+Manager apraise sit
+Manager talk to customer 16,16,30,0,1
+Manager receive payment
+Manager alert to stop mechanics work
+Manager end service
+Manager it's over
+The program takes 58175 miliseconds

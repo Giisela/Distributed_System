@@ -1,0 +1,114 @@
+ Customer 2 decideOnRepair 
+ Customer 11 decideOnRepair 
+ Customer 7 decideOnRepair 
+ Customer 17 decideOnRepair 
+ Customer 21 decideOnRepair 
+ Customer 4 decideOnRepair 
+ Customer 14 decideOnRepair 
+ Customer 23 decideOnRepair 
+ Customer 27 decideOnRepair 
+ Customer 28 decideOnRepair 
+ Customer 25 decideOnRepair 
+ Customer 9 decideOnRepair 
+ Customer 24 decideOnRepair 
+ Customer 13 decideOnRepair 
+ Customer 18 decideOnRepair 
+ Customer 0 decideOnRepair 
+ Customer 12 decideOnRepair 
+ Customer 16 decideOnRepair 
+ Customer 20 decideOnRepair 
+ Customer 15 decideOnRepair 
+ Customer 3 decideOnRepair 
+ Customer 19 decideOnRepair 
+ Customer 8 decideOnRepair 
+ Customer 22 decideOnRepair 
+ Customer 29 decideOnRepair 
+ Customer 6 decideOnRepair 
+ Customer 26 decideOnRepair 
+ Customer 10 decideOnRepair 
+ Customer 5 decideOnRepair 
+ Customer 1 decideOnRepair 
+ Customer 10 decideOnRepair 
+ Customer 26 decideOnRepair 
+ Customer 8 decideOnRepair 
+ Customer 19 decideOnRepair 
+ Customer 3 decideOnRepair 
+ Customer 16 decideOnRepair 
+ Customer 12 decideOnRepair 
+ Customer 13 decideOnRepair 
+ Customer 9 decideOnRepair 
+ Customer 23 decideOnRepair 
+ Customer 4 decideOnRepair 
+ Customer 17 decideOnRepair 
+ Customer 7 decideOnRepair 
+ Customer 2 decideOnRepair 
+ Customer 23 decideOnRepair 
+ Customer 13 decideOnRepair 
+ Customer 16 decideOnRepair 
+ Customer 1 decideOnRepair 
+ Customer 13 decideOnRepair 
+ Customer 23 decideOnRepair 
+ Customer 2 decideOnRepair 
+ Customer 2 decideOnRepair 
+ Manager will call the customer 11
+ Customer 11 back to work by car 
+ Manager will call the customer 21
+ Customer 21 back to work by car 
+ Manager will call the customer 27
+ Customer 27 back to work by car 
+ Manager will call the customer 18
+ Customer 18 back to work by bus 
+ Manager will call the customer 14
+ Customer 14 back to work by car 
+ Manager will call the customer 25
+ Customer 25 back to work by bus 
+ Manager will call the customer 24
+ Customer 24 back to work by car 
+ Manager will call the customer 6
+ Customer 6 back to work by bus 
+ Manager will call the customer 22
+ Customer 22 back to work by bus 
+ Manager will call the customer 28
+ Customer 28 back to work by bus 
+ Manager will call the customer 29
+ Customer 29 back to work by car 
+ Manager will call the customer 20
+ Customer 20 back to work by car 
+ Manager will call the customer 0
+ Customer 0 back to work by bus 
+ Manager will call the customer 15
+ Customer 15 back to work by car 
+ Manager will call the customer 17
+ Customer 17 back to work by car 
+ Manager will call the customer 7
+ Customer 7 back to work by bus 
+ Manager will call the customer 9
+ Customer 9 back to work by car 
+ Manager will call the customer 12
+ Customer 12 back to work by bus 
+ Manager will call the customer 4
+ Customer 4 back to work by car 
+ Manager will call the customer 8
+ Customer 8 back to work by car 
+ Manager will call the customer 19
+ Customer 19 back to work by car 
+ Manager will call the customer 2
+ Customer 2 back to work by bus 
+ Manager will call the customer 3
+ Customer 3 back to work by bus 
+ Manager will call the customer 5
+ Customer 5 back to work by bus 
+ Manager will call the customer 10
+ Customer 10 back to work by car 
+ Manager will call the customer 1
+ Customer 1 back to work by car 
+ Manager will call the customer 26
+ Customer 26 back to work by car 
+ Manager will call the customer 23
+ Customer 23 back to work by bus 
+ Manager will call the customer 13
+ Customer 13 back to work by bus 
+ Manager will call the customer 16
+ Customer 16 back to work by bus 
+ Outside world will end 
+OutsideWorld it's over

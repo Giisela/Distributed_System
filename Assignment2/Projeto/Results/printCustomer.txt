@@ -1,0 +1,312 @@
+Customer 0 decide on repairCustomer 6 decide on repair
+Customer 7 decide on repair
+Customer 5 decide on repairCustomer 4 decide on repair
+
+
+Customer 8 decide on repair
+Customer 3 decide on repair
+Customer 2 decide on repair
+Customer 1 decide on repair
+Customer 10 decide on repairCustomer 9 decide on repair
+
+Customer 12 decide on repair
+Customer 11 decide on repair
+Customer 14 decide on repair
+Customer 13 decide on repair
+Customer 16 decide on repair
+Customer 15 decide on repair
+Customer 17 decide on repair
+Customer 21 decide on repair
+Customer 18 decide on repair
+Customer 20 decide on repair
+Customer 19 decide on repair
+Customer 22 decide on repair
+Customer 24 decide on repair
+Customer 25 decide on repair
+Customer 23 decide on repair
+Customer 26 decide on repair
+Customer 27 decide on repair
+Customer 28 decide on repair
+Customer 29 decide on repair
+Customer 2 decide on repair
+Customer 11,11,11,1,0 go to repair shop
+Customer 7 decide on repair
+Customer 17 decide on repair
+Customer 21,21,21,1,0 go to repair shop
+Customer 4 decide on repair
+Customer 14,14,14,1,0 go to repair shop
+Customer 11,11,30,1,0 queueIn
+Customer 23 decide on repair
+Customer 27,27,27,1,0 go to repair shop
+Customer 28,28,28,0,0 go to repair shop
+Customer 21,21,30,1,0 queueIn
+Customer 25,25,25,0,0 go to repair shop
+Customer 11 talk with manager
+Customer 9 decide on repair
+Customer 24,24,24,1,0 go to repair shop
+Customer 27,27,30,1,0 queueIn
+Customer 13 decide on repair
+Customer 21 talk with manager
+Customer 18,18,18,0,0 go to repair shop
+Customer 0,0,0,0,0 go to repair shop
+Customer 14,14,30,1,0 queueIn
+Customer 12 decide on repair
+Customer 27 talk with manager
+Customer 16 decide on repair
+Customer 20,20,20,1,0 go to repair shop
+Customer 18,18,30,0,0 queueIn
+Customer 15,15,15,1,0 go to repair shop
+Customer 3 decide on repair
+Customer 19 decide on repair
+Customer 24,24,30,1,0 queueIn
+Customer 8 decide on repair
+Customer 22,22,22,0,0 go to repair shop
+Customer 18 talk with manager
+Customer 29,29,29,1,0 go to repair shop
+Customer 25,25,30,0,0 queueIn
+Customer 6,6,6,0,0 go to repair shop
+Customer 26 decide on repair
+Customer 14 talk with manager
+Customer 10 decide on repair
+Customer 28,28,30,0,0 queueIn
+Customer 5,5,5,0,0 go to repair shop
+Customer 1 decide on repair
+Customer 10,10,10,1,0 go to repair shop
+Customer 25 talk with manager
+Customer 6,6,30,0,0 queueIn
+Customer 26,26,26,1,0 go to repair shop
+Customer 8,8,8,1,0 go to repair shop
+Customer 19,19,19,1,0 go to repair shop
+Customer 24 talk with manager
+Customer 29,29,30,1,0 queueIn
+Customer 3,3,3,0,0 go to repair shop
+Customer 11 collectKey
+Customer 16 decide on repair
+Customer 12,12,12,0,0 go to repair shop
+Customer 22,22,30,0,0 queueIn
+Customer 6 talk with manager
+Customer 13 decide on repair
+Customer 9,9,9,1,0 go to repair shop
+Customer 23 decide on repair
+Customer 15,15,30,1,0 queueIn
+Customer 28 talk with manager
+Customer 4,4,4,1,0 go to repair shop
+Customer 17,17,17,1,0 go to repair shop
+Customer 7,7,7,0,0 go to repair shop
+Customer 20,20,30,1,0 queueIn
+Customer 22 talk with manager
+Customer 2 decide on repair
+Customer 11 find car
+Customer 23 decide on repair
+Customer 13 decide on repair
+Customer 0,0,30,0,0 queueIn
+Customer 16,16,16,0,0 go to repair shop
+Customer 29 talk with manager
+Customer 1,1,1,1,0 go to repair shop
+Customer 13,13,13,0,0 go to repair shop
+Customer 11,11,-1,1,0 back to work by car
+Customer 23,23,23,0,0 go to repair shop
+Customer 2 decide on repair
+Customer 0 talk with manager
+Customer 7,7,30,0,0 queueIn
+Customer 2,2,2,0,0 go to repair shop
+Customer 20 talk with manager
+Customer 17,17,30,1,0 queueIn
+Customer 15 talk with manager
+Customer 4,4,30,1,0 queueIn
+Customer 17 talk with manager
+Customer 9,9,30,1,0 queueIn
+Customer 7 talk with manager
+Customer 12,12,30,0,0 queueIn
+Customer 3,3,30,0,0 queueIn
+Customer 19,19,30,1,0 queueIn
+Customer 12 talk with manager
+Customer 8,8,30,1,0 queueIn
+Customer 9 talk with manager
+Customer 26,26,30,1,0 queueIn
+Customer 4 talk with manager
+Customer 10,10,30,1,0 queueIn
+Customer 8 talk with manager
+Customer 5,5,30,0,0 queueIn
+Customer 19 talk with manager
+Customer 2,2,30,0,0 queueIn
+Customer 3 talk with manager
+Customer 23,23,30,0,0 queueIn
+Customer 2 talk with manager
+Customer 13,13,30,0,0 queueIn
+Customer 5 talk with manager
+Customer 1,1,30,1,0 queueIn
+Customer 10 talk with manager
+Customer 21 collectKey
+Customer 16,16,30,0,0 queueIn
+Customer 26 talk with manager
+Customer 1 talk with manager
+Customer 13 talk with manager
+Customer 23 talk with manager
+Customer 21 find car
+Customer 16 talk with manager
+Customer 21,21,-2,1,0 back to work by car
+Customer 11,11,-1,1,0 go to repair shop
+Customer 11,11,30,1,1 queueIn
+Customer 21,21,-2,1,0 go to repair shop
+Customer 11 pay for the service
+Customer 21,21,30,1,1 queueIn
+Customer 21 pay for the service
+Customer 27 collectKey
+Customer 27 find car
+Customer 27,27,-3,1,0 back to work by car
+Customer 18 back to work by bus
+Customer 27,27,-3,1,0 go to repair shop
+Customer 27,27,30,1,1 queueIn
+Customer 27 pay for the service
+Customer 14 collectKey
+Customer 14 find car
+Customer 14,14,-1,1,0 back to work by car
+Customer 18,18,30,0,1 queueIn
+Customer 18 pay for the service
+Customer 25 back to work by bus
+Customer 14,14,-1,1,0 go to repair shop
+Customer 14,14,30,1,1 queueIn
+Customer 14 pay for the service
+Customer 24 collectKey
+Customer 24 find car
+Customer 24,24,-2,1,0 back to work by car
+Customer 25,25,30,0,1 queueIn
+Customer 25 pay for the service
+Customer 6 back to work by bus
+Customer 24,24,-2,1,0 go to repair shop
+Customer 24,24,30,1,1 queueIn
+Customer 24 pay for the service
+Customer 28 back to work by bus
+Customer 6,6,30,0,1 queueIn
+Customer 6 pay for the service
+Customer 22 back to work by bus
+Customer 22,22,30,0,1 queueIn
+Customer 22 pay for the service
+Customer 28,28,30,0,1 queueIn
+Customer 28 pay for the service
+Customer 29 collectKey
+Customer 29 find car
+Customer 29,29,-3,1,0 back to work by car
+Customer 0 back to work by bus
+Customer 29,29,-3,1,0 go to repair shop
+Customer 29,29,30,1,1 queueIn
+Customer 29 pay for the service
+Customer 20 collectKey
+Customer 20 find car
+Customer 20,20,-1,1,0 back to work by car
+Customer 20,20,-1,1,0 go to repair shop
+Customer 20,20,30,1,1 queueIn
+Customer 20 pay for the service
+Customer 15 collectKey
+Customer 15 find car
+Customer 15,15,-2,1,0 back to work by car
+Customer 0,0,30,0,1 queueIn
+Customer 0 pay for the service
+Customer 17 collectKey
+Customer 17 find car
+Customer 17,17,-3,1,0 back to work by car
+Customer 15,15,-2,1,0 go to repair shop
+Customer 15,15,30,1,1 queueIn
+Customer 15 pay for the service
+Customer 7 back to work by bus
+Customer 17,17,-3,1,0 go to repair shop
+Customer 17,17,30,1,1 queueIn
+Customer 17 pay for the service
+Customer 12 back to work by bus
+Customer 7,7,30,0,1 queueIn
+Customer 7 pay for the service
+Customer 9 collectKey
+Customer 9 find car
+Customer 9,9,-1,1,0 back to work by car
+Customer 4 collectKey
+Customer 4 find car
+Customer 4,4,-2,1,0 back to work by car
+Customer 9,9,-1,1,0 go to repair shop
+Customer 9,9,30,1,1 queueIn
+Customer 12,12,30,0,1 queueIn
+Customer 9 pay for the service
+Customer 12 pay for the service
+Customer 4,4,-2,1,0 go to repair shop
+Customer 4,4,30,1,1 queueIn
+Customer 4 pay for the service
+Customer 8 collectKey
+Customer 8 find car
+Customer 8,8,-3,1,0 back to work by car
+Customer 19 collectKey
+Customer 19 find car
+Customer 19,19,-1,1,0 back to work by car
+Customer 8,8,-3,1,0 go to repair shop
+Customer 8,8,30,1,1 queueIn
+Customer 8 pay for the service
+Customer 3 back to work by bus
+Customer 19,19,-1,1,0 go to repair shop
+Customer 19,19,30,1,1 queueIn
+Customer 19 pay for the service
+Customer 2 back to work by bus
+Customer 5 back to work by bus
+Customer 2,2,30,0,1 queueIn
+Customer 2 pay for the service
+Customer 3,3,30,0,1 queueIn
+Customer 3 pay for the service
+Customer 5,5,30,0,1 queueIn
+Customer 5 pay for the service
+Customer 10 collectKey
+Customer 10 find car
+Customer 10,10,-2,1,0 back to work by car
+Customer 26 collectKey
+Customer 26 find car
+Customer 26,26,-3,1,0 back to work by car
+Customer 10,10,-2,1,0 go to repair shop
+Customer 10,10,30,1,1 queueIn
+Customer 10 pay for the service
+Customer 1 collectKey
+Customer 1 find car
+Customer 1,1,-1,1,0 back to work by car
+Customer 1,1,-1,1,0 go to repair shop
+Customer 1,1,30,1,1 queueIn
+Customer 1 pay for the service
+Customer 13 back to work by bus
+Customer 26,26,-3,1,0 go to repair shop
+Customer 26,26,30,1,1 queueIn
+Customer 26 pay for the service
+Customer 23 back to work by bus
+Customer 23,23,30,0,1 queueIn
+Customer 23 pay for the service
+Customer 13,13,30,0,1 queueIn
+Customer 13 pay for the service
+Customer 16 back to work by bus
+Customer 11,11,11,1,1 collect car
+Customer 21,21,21,1,1 collect car
+Customer 27,27,27,1,1 collect car
+Customer 16,16,30,0,1 queueIn
+Customer 16 pay for the service
+Customer 18,18,18,0,1 collect car
+Customer 14,14,14,1,1 collect car
+Customer 25,25,25,0,1 collect car
+Customer 24,24,24,1,1 collect car
+Customer 6,6,6,0,1 collect car
+Customer 22,22,22,0,1 collect car
+Customer 28,28,28,0,1 collect car
+Customer 29,29,29,1,1 collect car
+Customer 20,20,20,1,1 collect car
+Customer 0,0,0,0,1 collect car
+Customer 15,15,15,1,1 collect car
+Customer 17,17,17,1,1 collect car
+Customer 7,7,7,0,1 collect car
+Customer 9,9,9,1,1 collect car
+Customer 12,12,12,0,1 collect car
+Customer 4,4,4,1,1 collect car
+Customer 8,8,8,1,1 collect car
+Customer 19,19,19,1,1 collect car
+Customer 2,2,2,0,1 collect car
+Customer 3,3,3,0,1 collect car
+Customer 5,5,5,0,1 collect car
+Customer 10,10,10,1,1 collect car
+Customer 1,1,1,1,1 collect car
+Customer 26,26,26,1,1 collect car
+Customer 23,23,23,0,1 collect car
+Customer 13,13,13,0,1 collect car
+Customer 16,16,16,0,1 collect car
+Client serviceEnd
+Customer it's over

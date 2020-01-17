@@ -1,0 +1,904 @@
+I'm waiting for a new task
+ Customer 11 queue in 
+ Manager get next task 
+ Customer 21 queue in 
+ Customer 27 queue in 
+The state of the queues
+ Atending customer : [11,11,30,1,0, 21,21,30,1,0, 27,27,30,1,0]
+ Alerting customer : []
+ Getting new parts : [];
+ Customer 18 queue in 
+ Customer 14 queue in 
+ Customer 25 queue in 
+ Customer 24 queue in 
+ Manager talk to customer 11
+ Customer 11 talk with Manager 
+ Customer 6 queue in 
+ Customer 28 queue in 
+ Customer 22 queue in 
+ Customer 11 collect car key 
+ Customer 29 queue in 
+ Customer 0 queue in 
+I'm waiting for a new task
+ Manager get next task 
+ Customer 20 queue in 
+ Customer 15 queue in 
+ Customer 17 queue in 
+ Customer 7 queue in 
+The state of the queues
+ Atending customer : [21,21,30,1,0, 27,27,30,1,0, 18,18,30,0,0, 14,14,30,1,0, 25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0]
+ Alerting customer : []
+ Getting new parts : [];
+ Customer 12 queue in 
+ Customer 9 queue in 
+ Customer 4 queue in 
+ Customer 8 queue in 
+ Customer 19 queue in 
+ Manager talk to customer 21
+ Customer 3 queue in 
+ Customer 2 queue in 
+ Customer 5 queue in 
+ Customer 10 queue in 
+ Customer 21 talk with Manager 
+ Customer 26 queue in 
+ Customer 1 queue in 
+ Customer 13 queue in 
+ Customer 23 queue in 
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic conclud the repair. Car 11
+ Customer 21 collect car key 
+ Customer 16 queue in 
+The state of the queues
+ Atending customer : [27,27,30,1,0, 18,18,30,0,0, 14,14,30,1,0, 25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0]
+ Alerting customer : [11]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic conclud the repair. Car 21
+The state of the queues
+ Atending customer : [27,27,30,1,0, 18,18,30,0,0, 14,14,30,1,0, 25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0]
+ Alerting customer : [21]
+ Getting new parts : [];
+ Customer 11 queue in 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [27,27,30,1,0, 18,18,30,0,0, 14,14,30,1,0, 25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Customer 21 queue in 
+ Manager talk to customer 27
+ Customer 27 talk with Manager 
+ Customer 27 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [18,18,30,0,0, 14,14,30,1,0, 25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 18
+ Customer 18 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic conclud the repair. Car 27
+The state of the queues
+ Atending customer : [14,14,30,1,0, 25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1]
+ Alerting customer : [27]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [14,14,30,1,0, 25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 18
+ Customer 27 queue in 
+ Manager talk to customer 14
+ Customer 14 talk with Manager 
+ Customer 14 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1]
+ Alerting customer : [18]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Customer 18 queue in 
+The state of the queues
+ Atending customer : [25,25,30,0,0, 24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 14
+ Manager talk to customer 25
+ Customer 25 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1]
+ Alerting customer : [14]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [24,24,30,1,0, 6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 25
+ Customer 14 queue in 
+ Manager talk to customer 24
+ Customer 24 talk with Manager 
+ Customer 24 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1]
+ Alerting customer : [25]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Customer 25 queue in 
+The state of the queues
+ Atending customer : [6,6,30,0,0, 28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 24
+ Manager talk to customer 6
+ Customer 6 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1]
+ Alerting customer : [24]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [28,28,30,0,0, 22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 6
+ Customer 24 queue in 
+ Manager talk to customer 28
+ Customer 28 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1]
+ Alerting customer : [6]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Customer 6 queue in 
+The state of the queues
+ Atending customer : [22,22,30,0,0, 29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic check the piece 0
+ Manager talk to customer 22
+ Customer 22 talk with Manager 
+ Mechanic let Manager Know the piece 0
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1]
+ Alerting customer : []
+ Getting new parts : [0];
+ Mechanic check the piece 0
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic let Manager Know the piece 0
+ Mechanic conclud the repair. Car 22
+The state of the queues
+ Atending customer : [29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1]
+ Alerting customer : [22]
+ Getting new parts : [0];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1]
+ Alerting customer : [22]
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 28
+I'm waiting for a new task
+ Manager get next task 
+ Customer 22 queue in 
+The state of the queues
+ Atending customer : [29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1]
+ Alerting customer : [28]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Customer 28 queue in 
+The state of the queues
+ Atending customer : [29,29,30,1,0, 0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 29
+ Customer 29 talk with Manager 
+ Customer 29 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [0,0,30,0,0, 20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 0
+ Customer 0 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic conclud the repair. Car 29
+The state of the queues
+ Atending customer : [20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1]
+ Alerting customer : [29]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [20,20,30,1,0, 15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic check the piece 0
+ Customer 29 queue in 
+ Mechanic let Manager Know the piece 0
+ Manager talk to customer 20
+ Customer 20 talk with Manager 
+ Customer 20 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1]
+ Alerting customer : []
+ Getting new parts : [0];
+ Mechanic check the piece 0
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic let Manager Know the piece 0
+The state of the queues
+ Atending customer : [15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1]
+ Alerting customer : []
+ Getting new parts : [0];
+ Mechanic conclud the repair. Car 20
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1]
+ Alerting customer : [20]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [15,15,30,1,0, 17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Customer 20 queue in 
+ Mechanic conclud the repair. Car 0
+ Manager talk to customer 15
+ Customer 15 talk with Manager 
+ Customer 15 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1]
+ Alerting customer : [0]
+ Getting new parts : [];
+ Customer 0 queue in 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [17,17,30,1,0, 7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 15
+ Manager talk to customer 17
+ Customer 17 talk with Manager 
+ Customer 17 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1]
+ Alerting customer : [15]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [7,7,30,0,0, 12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 17
+ Customer 15 queue in 
+ Manager talk to customer 7
+ Customer 7 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1]
+ Alerting customer : [17]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [12,12,30,0,0, 9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 7
+ Customer 17 queue in 
+ Manager talk to customer 12
+ Customer 12 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1]
+ Alerting customer : [7]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Customer 7 queue in 
+ Mechanic check the piece 2
+The state of the queues
+ Atending customer : [9,9,30,1,0, 4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic let Manager Know the piece 2
+ Manager talk to customer 9
+ Customer 9 talk with Manager 
+ Customer 9 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1]
+ Alerting customer : []
+ Getting new parts : [2];
+ Mechanic check the piece 2
+ Mechanic let Manager Know the piece 2
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic check the piece 2
+The state of the queues
+ Atending customer : [4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1]
+ Alerting customer : []
+ Getting new parts : [2];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [4,4,30,1,0, 8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 4
+ Customer 4 talk with Manager 
+ Mechanic conclud the repair. Car 9
+ Customer 4 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic conclud the repair. Car 12
+The state of the queues
+ Atending customer : [8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1]
+ Alerting customer : [9, 12]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1]
+ Alerting customer : [12]
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 4
+ Customer 9 queue in 
+ Customer 12 queue in 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1]
+ Alerting customer : [4]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [8,8,30,1,0, 19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Customer 4 queue in 
+ Manager talk to customer 8
+ Customer 8 talk with Manager 
+ Customer 8 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [19,19,30,1,0, 3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 19
+ Customer 19 talk with Manager 
+ Customer 19 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic conclud the repair. Car 8
+The state of the queues
+ Atending customer : [3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1]
+ Alerting customer : [8]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [3,3,30,0,0, 2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 19
+ Customer 8 queue in 
+ Manager talk to customer 3
+ Customer 3 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1]
+ Alerting customer : [19]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [2,2,30,0,0, 5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic check the piece 0
+ Customer 19 queue in 
+ Mechanic let Manager Know the piece 0
+ Manager talk to customer 2
+ Customer 2 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1]
+ Alerting customer : []
+ Getting new parts : [0];
+ Mechanic check the piece 0
+ Mechanic let Manager Know the piece 0
+ Mechanic check the piece 0
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1]
+ Alerting customer : []
+ Getting new parts : [0];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [5,5,30,0,0, 10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 5
+ Customer 5 talk with Manager 
+ Mechanic conclud the repair. Car 2
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic conclud the repair. Car 3
+The state of the queues
+ Atending customer : [10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1]
+ Alerting customer : [2, 3]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Customer 2 queue in 
+The state of the queues
+ Atending customer : [10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1]
+ Alerting customer : [3]
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 5
+ Customer 3 queue in 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1]
+ Alerting customer : [5]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Customer 5 queue in 
+The state of the queues
+ Atending customer : [10,10,30,1,0, 26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 10
+ Customer 10 talk with Manager 
+ Customer 10 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [26,26,30,1,0, 1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 26
+ Customer 26 talk with Manager 
+ Customer 26 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic conclud the repair. Car 10
+The state of the queues
+ Atending customer : [1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1]
+ Alerting customer : [10]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [1,1,30,1,0, 13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic check the piece 0
+ Customer 10 queue in 
+ Mechanic let Manager Know the piece 0
+ Manager talk to customer 1
+ Customer 1 talk with Manager 
+ Customer 1 collect car key 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1]
+ Alerting customer : []
+ Getting new parts : [0];
+ Mechanic check the piece 0
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic let Manager Know the piece 0
+The state of the queues
+ Atending customer : [13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1]
+ Alerting customer : []
+ Getting new parts : [0];
+ Mechanic conclud the repair. Car 1
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1]
+ Alerting customer : [1]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [13,13,30,0,0, 23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Customer 1 queue in 
+ Mechanic conclud the repair. Car 26
+ Manager talk to customer 13
+ Customer 13 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1]
+ Alerting customer : [26]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [23,23,30,0,0, 16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Customer 26 queue in 
+ Manager talk to customer 23
+ Mechanic check the piece 1
+I'm waiting for a new task
+ Manager get next task 
+ Customer 23 talk with Manager 
+ Mechanic let Manager Know the piece 1
+The state of the queues
+ Atending customer : [16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1]
+ Alerting customer : []
+ Getting new parts : [1];
+ Mechanic check the piece 1
+I'm waiting for a new task
+ Manager get next task 
+ Mechanic let Manager Know the piece 1
+The state of the queues
+ Atending customer : [16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1]
+ Alerting customer : []
+ Getting new parts : [1];
+ Mechanic conclud the repair. Car 23
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1]
+ Alerting customer : [23]
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 13
+ Customer 23 queue in 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1]
+ Alerting customer : [13]
+ Getting new parts : [];
+I'm waiting for a new task
+ Manager get next task 
+ Customer 13 queue in 
+The state of the queues
+ Atending customer : [16,16,30,0,0, 11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 16
+ Customer 16 talk with Manager 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [11,11,30,1,1, 21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 11
+ Customer 11 pay for the service 
+ Manager receive payment from 11
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [21,21,30,1,1, 27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic check the piece 2
+ Manager talk to customer 21
+ Customer 21 pay for the service 
+ Mechanic let Manager Know the piece 2
+ Manager receive payment from 21
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1]
+ Alerting customer : []
+ Getting new parts : [2];
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [27,27,30,1,1, 18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Mechanic conclud the repair. Car 16
+ Manager talk to customer 27
+ Customer 27 pay for the service 
+ Manager receive payment from 27
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1]
+ Alerting customer : [16]
+ Getting new parts : [];
+ Customer 16 queue in 
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [18,18,30,0,1, 14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 18
+ Customer 18 pay for the service 
+ Manager receive payment from 18
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [14,14,30,1,1, 25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 14
+ Customer 14 pay for the service 
+ Manager receive payment from 14
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [25,25,30,0,1, 24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 25
+ Customer 25 pay for the service 
+ Manager receive payment from 25
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [24,24,30,1,1, 6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 24
+ Customer 24 pay for the service 
+ Manager receive payment from 24
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [6,6,30,0,1, 22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 6
+ Customer 6 pay for the service 
+ Manager receive payment from 6
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [22,22,30,0,1, 28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 22
+ Customer 22 pay for the service 
+ Manager receive payment from 22
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [28,28,30,0,1, 29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 28
+ Customer 28 pay for the service 
+ Manager receive payment from 28
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [29,29,30,1,1, 20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 29
+ Customer 29 pay for the service 
+ Manager receive payment from 29
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [20,20,30,1,1, 0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 20
+ Customer 20 pay for the service 
+ Manager receive payment from 20
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [0,0,30,0,1, 15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 0
+ Customer 0 pay for the service 
+ Manager receive payment from 0
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [15,15,30,1,1, 17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 15
+ Customer 15 pay for the service 
+ Manager receive payment from 15
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [17,17,30,1,1, 7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 17
+ Customer 17 pay for the service 
+ Manager receive payment from 17
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [7,7,30,0,1, 9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 7
+ Customer 7 pay for the service 
+ Manager receive payment from 7
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [9,9,30,1,1, 12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 9
+ Customer 9 pay for the service 
+ Manager receive payment from 9
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [12,12,30,0,1, 4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 12
+ Customer 12 pay for the service 
+ Manager receive payment from 12
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [4,4,30,1,1, 8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 4
+ Customer 4 pay for the service 
+ Manager receive payment from 4
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [8,8,30,1,1, 19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 8
+ Customer 8 pay for the service 
+ Manager receive payment from 8
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [19,19,30,1,1, 2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 19
+ Customer 19 pay for the service 
+ Manager receive payment from 19
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [2,2,30,0,1, 3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 2
+ Customer 2 pay for the service 
+ Manager receive payment from 2
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [3,3,30,0,1, 5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 3
+ Customer 3 pay for the service 
+ Manager receive payment from 3
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [5,5,30,0,1, 10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 5
+ Customer 5 pay for the service 
+ Manager receive payment from 5
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [10,10,30,1,1, 1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 10
+ Customer 10 pay for the service 
+ Manager receive payment from 10
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [1,1,30,1,1, 26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 1
+ Customer 1 pay for the service 
+ Manager receive payment from 1
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [26,26,30,1,1, 23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 26
+ Customer 26 pay for the service 
+ Manager receive payment from 26
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [23,23,30,0,1, 13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 23
+ Customer 23 pay for the service 
+ Manager receive payment from 23
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [13,13,30,0,1, 16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 13
+ Customer 13 pay for the service 
+ Manager receive payment from 13
+I'm waiting for a new task
+ Manager get next task 
+The state of the queues
+ Atending customer : [16,16,30,0,1]
+ Alerting customer : []
+ Getting new parts : [];
+ Manager talk to customer 16
+ Customer 16 pay for the service 
+ Manager receive payment from 16
+ Lounge will end all servers, include yourself 
+Lounge it's over

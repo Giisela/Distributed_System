@@ -1,0 +1,378 @@
+ Manager register service 11
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 5
+ B-type pieces quantity : 5
+ C-type pieces quantity : 5
+ Mechanic 1 resume repair procedure 
+ Manager register service 21
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 4
+ B-type pieces quantity : 5
+ C-type pieces quantity : 5
+ Mechanic 0 resume repair procedure 
+ Manager register service 27
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 5
+ C-type pieces quantity : 5
+ Mechanic 0 resume repair procedure 
+ Manager register service 18
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 2
+ B-type pieces quantity : 5
+ C-type pieces quantity : 5
+ Mechanic 1 resume repair procedure 
+ Manager register service 14
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 2
+ B-type pieces quantity : 5
+ C-type pieces quantity : 4
+ Mechanic 1 resume repair procedure 
+ Manager register service 25
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 5
+ C-type pieces quantity : 4
+ Mechanic 1 resume repair procedure 
+ Manager register service 24
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 4
+ C-type pieces quantity : 4
+ Mechanic 1 resume repair procedure 
+ Manager register service 6
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 4
+ C-type pieces quantity : 3
+ Mechanic 1 resume repair procedure 
+ Manager register service 28
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 4
+ C-type pieces quantity : 2
+ Manager register service 22
+ Mechanic 0 read the paper 
+ Mechanic 1 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 1 start repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 4
+ C-type pieces quantity : 2
+ Mechanic 1 get required part 
+ Manager store part 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 4
+ C-type pieces quantity : 2
+ Mechanic 1 resume repair procedure 
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Manager store part 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 4
+ C-type pieces quantity : 2
+ Mechanic 0 resume repair procedure 
+ Manager register service 29
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 2
+ B-type pieces quantity : 4
+ C-type pieces quantity : 2
+ Mechanic 0 resume repair procedure 
+ Manager register service 0
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 4
+ C-type pieces quantity : 2
+ Mechanic 1 read the paper 
+ Manager register service 20
+ Mechanic 0 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 0 start repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 4
+ C-type pieces quantity : 2
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 4
+ C-type pieces quantity : 2
+ Manager store part 
+ Mechanic 0 resume repair procedure 
+ Mechanic 1 read the paper 
+ Manager store part 
+ Mechanic 1 start repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 5
+ B-type pieces quantity : 3
+ C-type pieces quantity : 2
+ Mechanic 1 resume repair procedure 
+ Manager register service 15
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 4
+ B-type pieces quantity : 3
+ C-type pieces quantity : 2
+ Mechanic 1 resume repair procedure 
+ Manager register service 17
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 4
+ B-type pieces quantity : 3
+ C-type pieces quantity : 1
+ Mechanic 1 resume repair procedure 
+ Manager register service 7
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 4
+ B-type pieces quantity : 2
+ C-type pieces quantity : 1
+ Mechanic 1 resume repair procedure 
+ Manager register service 12
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 2
+ C-type pieces quantity : 1
+ Mechanic 1 read the paper 
+ Manager register service 9
+ Mechanic 0 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 0 start repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 2
+ C-type pieces quantity : 1
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 2
+ C-type pieces quantity : 1
+ Manager store part 
+ Mechanic 1 read the paper 
+ Mechanic 0 read the paper 
+ Mechanic 1 start repair procedure 
+ Manager store part 
+ Mechanic 0 start repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 2
+ C-type pieces quantity : 6
+ Mechanic 1 resume repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 2
+ C-type pieces quantity : 5
+ Mechanic 0 resume repair procedure 
+ Manager register service 4
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 2
+ C-type pieces quantity : 4
+ Mechanic 1 resume repair procedure 
+ Manager register service 8
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 2
+ B-type pieces quantity : 2
+ C-type pieces quantity : 4
+ Mechanic 1 resume repair procedure 
+ Manager register service 19
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 2
+ C-type pieces quantity : 4
+ Mechanic 0 resume repair procedure 
+ Manager register service 3
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 1
+ C-type pieces quantity : 4
+ Mechanic 0 read the paper 
+ Manager register service 2
+ Mechanic 1 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 1 start repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 1
+ C-type pieces quantity : 4
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 1
+ C-type pieces quantity : 4
+ Manager store part 
+ Mechanic 0 read the paper 
+ Mechanic 1 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 1 start repair procedure 
+ Manager store part 
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 1
+ C-type pieces quantity : 4
+ Mechanic check part available 
+ A-type pieces quantity : 3
+ B-type pieces quantity : 1
+ C-type pieces quantity : 4
+ Mechanic 0 resume repair procedure 
+ Mechanic 1 resume repair procedure 
+ Manager register service 5
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 1
+ C-type pieces quantity : 4
+ Mechanic 0 resume repair procedure 
+ Manager register service 10
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 1
+ C-type pieces quantity : 3
+ Mechanic 0 resume repair procedure 
+ Manager register service 26
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 1
+ C-type pieces quantity : 2
+ Mechanic 1 read the paper 
+ Manager register service 1
+ Mechanic 0 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 0 start repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 1
+ C-type pieces quantity : 2
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 1
+ B-type pieces quantity : 1
+ C-type pieces quantity : 2
+ Manager store part 
+ Mechanic 0 resume repair procedure 
+ Mechanic 1 read the paper 
+ Manager store part 
+ Mechanic 1 start repair procedure 
+ Mechanic check part available 
+ A-type pieces quantity : 10
+ B-type pieces quantity : 1
+ C-type pieces quantity : 1
+ Mechanic 1 resume repair procedure 
+ Manager register service 13
+ Mechanic 1 read the paper 
+ Mechanic 1 start repair procedure 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 9
+ B-type pieces quantity : 1
+ C-type pieces quantity : 1
+ Manager register service 23
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 1 read the paper 
+ Mechanic check part available 
+ A-type pieces quantity : 9
+ B-type pieces quantity : 1
+ C-type pieces quantity : 1
+ Mechanic 1 start repair procedure 
+ Manager store part 
+ Mechanic 1 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 9
+ B-type pieces quantity : 6
+ C-type pieces quantity : 1
+ Mechanic 1 resume repair procedure 
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Manager store part 
+ Mechanic check part available 
+ A-type pieces quantity : 8
+ B-type pieces quantity : 11
+ C-type pieces quantity : 1
+ Mechanic 0 resume repair procedure 
+ Manager register service 16
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Mechanic 0 get required part 
+ Mechanic check part available 
+ A-type pieces quantity : 8
+ B-type pieces quantity : 10
+ C-type pieces quantity : 1
+ Mechanic 0 read the paper 
+ Mechanic 0 start repair procedure 
+ Manager store part 
+ Mechanic check part available 
+ A-type pieces quantity : 8
+ B-type pieces quantity : 10
+ C-type pieces quantity : 8
+ Mechanic 0 resume repair procedure 
+ Manager shutdown Mechanics 
+ Mechanic 0 read the paper 
+ Mechanic 1 read the paper 
+ Repair Area will end 
+Repair Area it's over
